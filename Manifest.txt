@@ -58,7 +58,6 @@ lib/facebooker/rails/facebook_pretty_errors.rb
 lib/facebooker/rails/facebook_request_fix.rb
 lib/facebooker/rails/facebook_request_fix_2-3.rb
 lib/facebooker/rails/facebook_session_handling.rb
-lib/facebooker/rails/facebook_url_rewriting.rb
 lib/facebooker/rails/helpers/fb_connect.rb
 lib/facebooker/rails/integration_session.rb
 lib/facebooker/rails/profile_publisher_extensions.rb
