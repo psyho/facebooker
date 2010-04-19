@@ -18,7 +18,6 @@ if defined? Rails
   require 'facebooker/rails/facebook_request_fix_2-3' if Rails.version >= '2.3'
   require 'facebooker/rails/routing'
   require 'facebooker/rails/facebook_pretty_errors' rescue nil
-  require 'facebooker/rails/facebook_url_helper'
   require 'facebooker/rails/extensions/rack_setup' if Rails.version > '2.3'
   require 'facebooker/rails/extensions/action_controller'
   #require 'facebooker/rails/extensions/action_view'

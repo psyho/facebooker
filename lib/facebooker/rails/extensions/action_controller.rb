@@ -4,7 +4,6 @@ module ::ActionController
       inherited_without_facebooker(subclass)
       if subclass.to_s == "ApplicationController"
         subclass.send(:include,Facebooker::Rails::Controller) 
-        subclass.helper Facebooker::Rails::Helpers
       end
     end
     class << self
