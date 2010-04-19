@@ -11,6 +11,7 @@ Facebooker is a Ruby wrapper over the Facebook[http://facebook.com] {REST API}[h
 * Concrete classes and methods modeling the Facebook data, so it's easy for a Rubyist to understand what's available
 * Well tested
 
+This is a lite version with most view/helper stuff removed.
 
 == FEATURES/PROBLEMS:
 
